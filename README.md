@@ -6,4 +6,5 @@
 6)create a file or make any changes
 7)commit any changes
 8)create a pull request
-9)go to your forked repo AND CLICK ON FETCH UPSTREAM
+9)go to your forked repo AND CLICK ON FETCH UPSTREAM 
+

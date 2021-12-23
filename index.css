@@ -1,0 +1,93 @@
+#header
+{
+    margin-top: 1.5rem;
+}
+.logo
+{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    
+}
+#headbtn
+{
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+    border: 2px solid rgb(255, 255, 255);
+    font-size:large;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 7px 10px; 
+    
+}
+#headbtn:hover 
+{
+    background-color: rgb(241, 241, 241);
+    color: rgb(0, 0, 0);
+}
+#hero
+{
+    align-items: center;
+    margin-top: 20px;
+}
+#heading
+{
+    margin-top: 4rem;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 1000;
+    margin-left: 20px;
+
+}
+#para
+{
+    font-family: 'DM Sans', sans-serif;
+    color: rgb(80, 79, 79);
+    font-size: 15px;
+    width:70%;
+    margin-left: 20px;
+}
+.btn
+{
+    border:none;
+    background-color: rgb(114, 70, 236);
+    border-radius: 1.5rem;
+    color:#ffffff;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    padding: 14px 14px;
+    cursor: pointer;
+    width: 35%;
+    margin-top: 4rem;
+    word-wrap:normal
+}
+.container-1
+{
+    margin-left: 4rem;
+    margin-right: 1rem;
+    display: flex;
+    padding: 10xp;
+    flex-wrap: wrap;
+}
+.box-1
+{
+    flex:1;
+}
+.box-2
+{
+    justify-content: baseline;
+    flex:1;
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
